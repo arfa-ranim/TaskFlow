@@ -78,7 +78,4 @@ View comprehensive statistics including:
 - Daily completion chart for the last 30 days
 - Productivity insights
 
-## License
-
-MIT
 
